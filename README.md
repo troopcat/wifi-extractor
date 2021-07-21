@@ -1,8 +1,8 @@
 # wifi-extractor
-Gather information about wifi(s) you connected before
+Gather information about wifi(s) you connected before.
 
 # NOTE
-Use this code for educational purposes only
+Use this code for educational purposes only.
 
 
-It only works for windows
+It only works for windows.
